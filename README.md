@@ -8,3 +8,5 @@ Getting Started
 ---------------
 This sample uses the Gradle build system.  To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
+
+<img src="https://github.com/Katalune/Sunshine/blob/master/screenshots/mobile.jpg">
